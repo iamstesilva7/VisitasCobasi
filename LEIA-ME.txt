@@ -1,0 +1,19 @@
+CONTROLE DE VISITAS — COBASI
+
+COMO ABRIR
+Extraia todos os arquivos do ZIP para uma pasta. Abra index.html no Edge ou Chrome e selecione seu perfil.
+
+NOVIDADES
+- Tela inicial redesenhada em azul-marinho e branco.
+- Francisco Amorim: acesso a todas as lojas, códigos em ordem crescente e filtros combináveis por regional e região. Histórico, Excluídos, última visita e indicadores consideram somente as visitas registradas por Francisco.
+- Histórico: o responsável pode excluir suas próprias visitas, justificando com Marcação indevida ou Outro (texto obrigatório).
+- Excluídos: preserva visita original, justificativa, responsável e data da exclusão. Visitas excluídas não entram nos indicadores nem na última visita.
+- Mantida a estrutura do painel dos regionais e a base original de lojas; corrigido o nome de Caieiras.
+
+DADOS E ACESSO
+Esta versão é uma proposta local: usa seleção de perfil, sem autenticação. Os dados ficam no navegador e não são compartilhados automaticamente entre computadores ou navegadores. A seleção de perfil não fornece controle seguro de acesso.
+Use o mesmo navegador e endereço/pasta de acesso para preservar os registros existentes. Não limpe os dados do navegador. Mantenha uma cópia da versão anterior e teste a nova versão no mesmo local de acesso antes de adotá-la.
+Para uso corporativo compartilhado, será necessário integrar autenticação e banco de dados centralizado.
+
+REGIÕES
+SP, MG, Nordeste, TO, Sul, RJ, ES, DF, GO, PA, MT e MS. O agrupamento geográfico foi organizado por código de loja a partir dos nomes da base recebida. Nordeste reúne os estados nordestinos; Sul reúne PR, SC e RS. Revise este cadastro com a lista corporativa antes do uso definitivo.
